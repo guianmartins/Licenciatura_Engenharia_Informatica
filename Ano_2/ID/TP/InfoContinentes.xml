@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Continentes>
+   <continente nome="Ásia">
+      <numeroDePaises>4</numeroDePaises>
+      <Paises>
+         <Pais>China</Pais>
+         <Pais>Indonésia</Pais>
+         <Pais>Japão</Pais>
+         <Pais>Nepal</Pais>
+      </Paises>
+   </continente>
+   <continente nome="América">
+      <numeroDePaises>1</numeroDePaises>
+      <Paises>
+         <Pais>Canadá</Pais>
+      </Paises>
+   </continente>
+   <continente nome="África">
+      <numeroDePaises>1</numeroDePaises>
+      <Paises>
+         <Pais>Madagáscar</Pais>
+      </Paises>
+   </continente>
+   <continente nome="Europa">
+      <numeroDePaises>2</numeroDePaises>
+      <Paises>
+         <Pais>França</Pais>
+         <Pais>Lituania</Pais>
+      </Paises>
+   </continente>
+</Continentes>

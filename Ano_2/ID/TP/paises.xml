@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Paises xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="paises.xsd">
+     <pais nome="Japão">
+          <capital>Tóquio</capital>
+          <continente>Ásia</continente>
+          <bandeira>//upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/250px-Flag_of_Japan.svg.png</bandeira>
+          <linguasOficiais>
+               <lingua>Japonês</lingua>
+          </linguasOficiais>
+          <area>377835</area>
+          <populacao>126494000</populacao>
+          <densidade>337</densidade>
+          <religioes>
+               <religiao>Budismo</religiao>
+               <religiao>Cristianismo</religiao>
+          </religioes>
+          <cidadesImportantes>
+               <cidade>Tóquio (Capital)</cidade>
+               <cidade>Yokohama</cidade>
+               <cidade>Osaka</cidade>
+               <cidade>Nagoia</cidade>
+               <cidade>Fukuoka</cidade>
+          </cidadesImportantes>
+          <paisesFronteira />
+          <casosCovid>477239</casosCovid>
+     </pais>
+     <pais nome="China">
+          <capital>Roma</capital>
+          <continente>Ásia</continente>
+          <bandeira>//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/250px-Flag_of_the_People%27s_Republic_of_China.svg.png</bandeira>
+          <linguasOficiais>
+               <lingua>Língua chinesa</lingua>
+          </linguasOficiais>
+          <area>9640011</area>
+          <populacao>1395380000</populacao>
+          <densidade>139.6</densidade>
+          <religioes>
+               <religiao>Budismo</religiao>
+               <religiao>Cristianismo</religiao>
+               <religiao>Islão</religiao>
+               <religiao>Outros</religiao>
+          </religioes>
+          <cidadesImportantes>
+               <cidade>Chongqing</cidade>
+               <cidade>Xangai</cidade>
+               <cidade>Pequim (Capital)</cidade>
+               <cidade>Nanyang</cidade>
+               <cidade>Ganzhou</cidade>
+          </cidadesImportantes>
+          <paisesFronteira>
+               <paisFronteira>Mongólia</paisFronteira>
+               <paisFronteira>Rússia</paisFronteira>
+               <paisFronteira>Índia</paisFronteira>
+               <paisFronteira>Myanmar</paisFronteira>
+               <paisFronteira>Casaquistão</paisFronteira>
+               <paisFronteira>Coreia do Norte</paisFronteira>
+               <paisFronteira>Vietname</paisFronteira>
+               <paisFronteira>Nepal</paisFronteira>
+               <paisFronteira>Quirguistão</paisFronteira>
+               <paisFronteira>Paquistão</paisFronteira>
+               <paisFronteira>Butão</paisFronteira>
+               <paisFronteira>Laos</paisFronteira>
+               <paisFronteira>Tajiquistão</paisFronteira>
+               <paisFronteira>Afeganistão</paisFronteira>
+          </paisesFronteira>
+          <casosCovid>101754</casosCovid>
+     </pais>
+     <pais nome="Canadá">
+          <capital>Ottawa</capital>
+          <continente>América</continente>
+          <bandeira>//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/250px-Flag_of_Canada_%28Pantone%29.svg.png</bandeira>
+          <linguasOficiais>
+               <lingua>Inglês</lingua>
+               <lingua>Francesa</lingua>
+          </linguasOficiais>
+          <area>9984670</area>
+          <populacao>36994000</populacao>
+          <densidade>3.92</densidade>
+          <religioes>
+               <religiao>Cristianismo</religiao>
+               <religiao>Animismo</religiao>
+               <religiao>Islão</religiao>
+               <religiao>Outros</religiao>
+               <religiao>Hinduísmo</religiao>
+               <religiao>Budismo</religiao>
+               <religiao>Judaísmo</religiao>
+          </religioes>
+          <cidadesImportantes>
+               <cidade>Toronto</cidade>
+               <cidade>Montréal</cidade>
+               <cidade>Calgary</cidade>
+               <cidade>Ottawa (Capital)</cidade>
+               <cidade>Edmonton</cidade>
+          </cidadesImportantes>
+          <paisesFronteira>
+               <paisFronteira>Estados Unidos</paisFronteira>
+          </paisesFronteira>
+          <casosCovid>994549</casosCovid>
+     </pais>
+     <pais nome="Indonésia">
+          <capital>Jacarta</capital>
+          <continente>Ásia</continente>
+          <bandeira>//upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Indonesia.svg/250px-Flag_of_Indonesia.svg.png</bandeira>
+          <linguasOficiais>
+               <lingua>Indonésio</lingua>
+          </linguasOficiais>
+          <area>1919440</area>
+          <populacao>264162000</populacao>
+          <densidade>126</densidade>
+          <religioes>
+               <religiao>Islão</religiao>
+               <religiao>Protestantismo</religiao>
+               <religiao>Catolicismo</religiao>
+               <religiao>Hinduísmo</religiao>
+               <religiao>Outros</religiao>
+          </religioes>
+          <cidadesImportantes>
+               <cidade>Jacarta (Capital)</cidade>
+               <cidade>Surabaia</cidade>
+               <cidade>Medã</cidade>
+               <cidade>Bandungue</cidade>
+               <cidade>Bekasi</cidade>
+          </cidadesImportantes>
+          <paisesFronteira>
+               <paisFronteira>Malásia</paisFronteira>
+               <paisFronteira>Papua Nova Guiné</paisFronteira>
+               <paisFronteira>Timor-Leste</paisFronteira>
+          </paisesFronteira>
+          <casosCovid>1517854</casosCovid>
+     </pais>
+     <pais nome="Nepal">
+          <capital>Catmandu</capital>
+          <continente>Ásia</continente>
+          <bandeira>//upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Flag_of_Nepal.svg/120px-Flag_of_Nepal.svg.png</bandeira>
+          <linguasOficiais>
+               <lingua>Nepali</lingua>
+          </linguasOficiais>
+          <area>140800</area>
+          <populacao>29631000</populacao>
+          <densidade>180</densidade>
+          <religioes>
+               <religiao>Budismo</religiao>
+               <religiao>Hinduísmo</religiao>
+               <religiao>Islão</religiao>
+               <religiao>Outros</religiao>
+          </religioes>
+          <cidadesImportantes>
+               <cidade>Catmandu (Capital)</cidade>
+               <cidade>Patan</cidade>
+               <cidade>Pokhara</cidade>
+               <cidade>Bharatpur</cidade>
+               <cidade>Biratnagar</cidade>
+          </cidadesImportantes>
+          <paisesFronteira>
+               <paisFronteira>Índia</paisFronteira>
+               <paisFronteira>China</paisFronteira>
+          </paisesFronteira>
+          <casosCovid>277461</casosCovid>
+     </pais>
+     <pais nome="Madagáscar">
+          <capital>Antananarivo</capital>
+          <continente>África</continente>
+          <bandeira>//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Madagascar.svg/250px-Flag_of_Madagascar.svg.png</bandeira>
+          <linguasOficiais>
+               <lingua>Francesa</lingua>
+               <lingua>Malgaxe</lingua>
+          </linguasOficiais>
+          <area>587040</area>
+          <populacao>26326000</populacao>
+          <densidade>30</densidade>
+          <religioes>
+               <religiao>Outros</religiao>
+               <religiao>Islão</religiao>
+               <religiao>Cristianismo</religiao>
+          </religioes>
+          <cidadesImportantes>
+               <cidade>Antananarivo (Capital)</cidade>
+               <cidade>Toamasina</cidade>
+               <cidade>Fihaonana</cidade>
+               <cidade>Morondava</cidade>
+               <cidade>Antsiranana</cidade>
+          </cidadesImportantes>
+          <paisesFronteira />
+          <casosCovid>24696</casosCovid>
+     </pais>
+     <pais nome="França">
+          <capital>Paris</capital>
+          <continente>Europa</continente>
+          <bandeira>//upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/250px-Flag_of_France.svg.png</bandeira>
+          <linguasOficiais>
+               <lingua>Francesa</lingua>
+          </linguasOficiais>
+          <area>547030</area>
+          <populacao>64725000</populacao>
+          <densidade>105</densidade>
+          <religioes>
+               <religiao>Cristianismo</religiao>
+               <religiao>Islão</religiao>
+               <religiao>Protestantismo</religiao>
+               <religiao>Judaísmo</religiao>
+          </religioes>
+          <cidadesImportantes>
+               <cidade>Paris (Capital)</cidade>
+               <cidade>Marselha</cidade>
+               <cidade>Lyon</cidade>
+               <cidade>Toulouse</cidade>
+               <cidade>Niça</cidade>
+          </cidadesImportantes>
+          <paisesFronteira>
+               <paisFronteira>Brasil</paisFronteira>
+               <paisFronteira>Espanha</paisFronteira>
+               <paisFronteira>Bélgica</paisFronteira>
+               <paisFronteira>Suíça</paisFronteira>
+               <paisFronteira>Suriname</paisFronteira>
+               <paisFronteira>Itália</paisFronteira>
+               <paisFronteira>Alemanha</paisFronteira>
+               <paisFronteira>Luxemburgo</paisFronteira>
+               <paisFronteira>Andorra</paisFronteira>
+               <paisFronteira>Holanda</paisFronteira>
+               <paisFronteira>Mónaco</paisFronteira>
+          </paisesFronteira>
+          <casosCovid>4755779</casosCovid>
+     </pais>
+     <pais nome="Lituania">
+          <capital>Vilnius</capital>
+          <continente>Europa</continente>
+          <bandeira>//upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Lithuania.svg/250px-Flag_of_Lithuania.svg.png</bandeira>
+          <linguasOficiais>
+               <lingua>Lituano</lingua>
+          </linguasOficiais>
+          <area>65200</area>
+          <populacao>2785000</populacao>
+          <densidade>44</densidade>
+          <religioes>
+               <religiao>Catolicismo</religiao>
+               <religiao>Outros</religiao>
+          </religioes>
+          <cidadesImportantes>
+               <cidade>Vilnius (Capital)</cidade>
+               <cidade>Kaunas</cidade>
+               <cidade>Klaipėda</cidade>
+               <cidade>Šiauliai</cidade>
+               <cidade>Panevėžys</cidade>
+          </cidadesImportantes>
+          <paisesFronteira>
+               <paisFronteira>Bielo-Rússia</paisFronteira>
+               <paisFronteira>Letónia</paisFronteira>
+               <paisFronteira>Rússia</paisFronteira>
+               <paisFronteira>Polónia</paisFronteira>
+          </paisesFronteira>
+          <casosCovid>217005</casosCovid>
+     </pais>
+</Paises>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Top5>
+     <pais nome="China">
+          <populacao>1395380000</populacao>
+     </pais>
+     <pais nome="Indonésia">
+          <populacao>264162000</populacao>
+     </pais>
+     <pais nome="Japão">
+          <populacao>126494000</populacao>
+     </pais>
+     <pais nome="França">
+          <populacao>64725000</populacao>
+     </pais>
+     <pais nome="Canadá">
+          <populacao>36994000</populacao>
+     </pais>
+</Top5>

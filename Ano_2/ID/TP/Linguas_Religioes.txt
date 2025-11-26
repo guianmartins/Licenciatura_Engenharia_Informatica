@@ -1,0 +1,32 @@
+Japão:
+- Línguas: Japonês
+- Religiões: Budismo, Cristianismo
+
+China:
+- Línguas: Língua chinesa
+- Religiões: Budismo, Cristianismo, Islão, Outros
+
+Canadá:
+- Línguas: Inglês, Francesa
+- Religiões: Cristianismo, Animismo, Islão, Outros, Hinduísmo, Budismo, Judaísmo
+
+Indonésia:
+- Línguas: Indonésio
+- Religiões: Islão, Protestantismo, Catolicismo, Hinduísmo, Outros
+
+Nepal:
+- Línguas: Nepali
+- Religiões: Budismo, Hinduísmo, Islão, Outros
+
+Madagáscar:
+- Línguas: Francesa, Malgaxe
+- Religiões: Outros, Islão, Cristianismo
+
+França:
+- Línguas: Francesa
+- Religiões: Cristianismo, Islão, Protestantismo, Judaísmo
+
+Lituania:
+- Línguas: Lituano
+- Religiões: Catolicismo, Outros
+
